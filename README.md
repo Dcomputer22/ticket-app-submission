@@ -96,7 +96,7 @@ php -S localhost:8000
 
 ## Repository Links
 
-- [Main Submission](https://github.com/fatimajimoh/ticketapp-submission)
+- [Main Submission](https://github.com/Dcomputer22/ticket-app-submission)
 - [React Implementation](https://github.com/Dcomputer22/trackdesk-react)
 - [Vue Implementation](https://github.com/Dcomputer22/trackdesk-vue)
 - [Twig Implementation](https://github.com/Dcomputer22/trackdesk-twig)
